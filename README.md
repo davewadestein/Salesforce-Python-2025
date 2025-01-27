@@ -11,7 +11,7 @@
 
 ## Tech Setup
 * Any operating system with Python 3.x installed (preferably 3.10 or better)
-* Visual Studio Code
+* Visual Studio Code (https://code.visualstudio.com/)
 
 ## Materials
 * https://github.com/davewadestein/Salesforce-Python-Fundamentals
