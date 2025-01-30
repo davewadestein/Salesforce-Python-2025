@@ -3,6 +3,9 @@
 ## How to reach me
 * dave@developintelligence.com
 
+## Day 2 Poll
+* https://xoyondo.com/op/6zv7sip8bnrb7m0
+
 ## Homework: Day 1
 * make sure you have the quick labs / lab for loops working
 * if you need help, use ChatGPT or Code Genie as needed
