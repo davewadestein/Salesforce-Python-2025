@@ -3,8 +3,9 @@
 ## How to reach me
 * dave@developintelligence.com
 
-## Day 2 Poll
+## Day 2 Polls
 * https://xoyondo.com/op/6zv7sip8bnrb7m0
+* https://xoyondo.com/op/wrym1i6qz26qvta
 
 ## Homework: Day 1
 * make sure you have the quick labs / lab for loops working
