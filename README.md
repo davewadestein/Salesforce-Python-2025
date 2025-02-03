@@ -3,9 +3,15 @@
 ## How to reach me
 * dave@developintelligence.com
 
+## Day 3 Polls
+* https://xoyondo.com/op/7xca3b2qid0qgxe
+* https://xoyondo.com/op/5u48pythoynkx76
+
 ## Day 2 Polls
-* https://xoyondo.com/op/6zv7sip8bnrb7m0
-* https://xoyondo.com/op/wrym1i6qz26qvta
+<img width="300" alt="Screenshot 2025-02-02 at 10 00 32 PM" src="https://github.com/user-attachments/assets/4c34d739-e0ff-48ae-9a0c-c40c5762bed7" />
+
+<img width="160" alt="poll" src="https://github.com/user-attachments/assets/7e4bfb31-bee3-487c-9b6d-586fd5a62455" />
+
 
 ## Homework: Day 1
 * make sure you have the quick labs / lab for loops working
