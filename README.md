@@ -3,6 +3,12 @@
 ## How to reach me
 * dave@developintelligence.com
 
+## Homework Day 3 
+* modify the "lists" group lab to handle the extras and any other features you wish, e.g,
+  * some kind of sort function (e.g., "!sort")
+  * remove one vs. remove all
+  * etc.
+
 ## Day 3 Polls
 * https://xoyondo.com/op/7xca3b2qid0qgxe
 * https://xoyondo.com/op/5u48pythoynkx76
