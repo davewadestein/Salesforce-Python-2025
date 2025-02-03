@@ -8,6 +8,9 @@
   * some kind of sort function (e.g., "!sort")
   * remove one vs. remove all
   * etc.
+* do the list comprehension exercies in notebook 2
+  * ask ChatGPT/AI for help if you need it
+  * ask ChatGPT/AI to quiz you on list comprehensions
 
 ## Day 3 Polls
 * https://xoyondo.com/op/7xca3b2qid0qgxe
