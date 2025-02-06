@@ -3,10 +3,9 @@
 ## How to reach me
 * dave@developintelligence.com
 
-## February 6 schedule
-
-* required TOWN HALLS AT 10-10:30 CENTRAL + 10:30-11 CENTRAL
-* we normally stop at 1 CENTRAL, but we will continue until 1:30 CENTRAL to make up some time
+## Homework Day 4
+* write some of your own functions
+* if you don't like my ideas, ask ChatGPT/AI
 
 ## Homework Day 3 
 * modify the "lists" group lab to handle the extras and any other features you wish, e.g,
