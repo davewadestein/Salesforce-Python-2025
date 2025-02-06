@@ -13,8 +13,8 @@
   * ask ChatGPT/AI to quiz you on list comprehensions
 
 ## Day 3 Polls
-* https://xoyondo.com/op/7xca3b2qid0qgxe
-* https://xoyondo.com/op/5u48pythoynkx76
+<img width="180" alt="Screenshot 2025-02-05 at 9 26 39 PM" src="https://github.com/user-attachments/assets/985be9f5-246f-4097-960e-2fbfeea4d83a" />
+<img width="334" alt="Screenshot 2025-02-05 at 9 25 23 PM" src="https://github.com/user-attachments/assets/cd7cfb84-eeeb-467e-aa17-b3a266cec456" />
 
 ## Day 2 Polls
 <img width="300" alt="Screenshot 2025-02-02 at 10 00 32 PM" src="https://github.com/user-attachments/assets/4c34d739-e0ff-48ae-9a0c-c40c5762bed7" />
